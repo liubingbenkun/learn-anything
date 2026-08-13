@@ -11,18 +11,19 @@ It is designed for requests such as:
 - “Use a small set of landmark papers to introduce diffusion models.”
 - “I know the basics of economics; help me rebuild the gaps and learn modern causal inference.”
 
-The skill researches the field, identifies the learner's goal and background, builds a dependency-aware curriculum, teaches one coherent idea at a time, and adapts later lessons to the learner's answers.
+The skill first researches and introduces the field, then offers several meaningful course routes. After the learner chooses or revises a route, it builds an intentionally uneven curriculum: prerequisites can be compressed, secondary areas surveyed, and priority areas explored through deeper theory, close paper reading, and hands-on practice.
 
 ## Why this skill exists
 
 Many AI-generated courses are expanded outlines: a list of terms, tools, papers, and warnings with little help building intuition. Learn Anything uses a different teaching sequence:
 
 1. Start with what the field is, why it matters, and how it developed.
-2. Establish the foundational concepts in the order needed to understand later methods.
-3. Introduce terminology, mathematics, tools, and papers only after their motivating problem is clear.
-4. Teach through a continuous explanation and sustained examples rather than disconnected definitions.
-5. End each lesson with purposeful questions that test explanation, causal reasoning, and transfer.
-6. Use the learner's answers to repair misconceptions and adjust the next lesson.
+2. Show the learner several possible routes before fixing the syllabus.
+3. Establish only the foundational concepts needed for the chosen route.
+4. Allocate depth deliberately: survey secondary areas and combine theory, papers, and practice in priority areas.
+5. Teach through a continuous explanation and sustained examples rather than disconnected definitions.
+6. End each lesson with purposeful questions that test explanation, causal reasoning, and transfer.
+7. Use the learner's answers to repair misconceptions and adjust the next lesson.
 
 The goal is not merely to produce a syllabus. It is to help a learner form a usable mental model of a field.
 
@@ -46,7 +47,7 @@ The agent builds a compact evidence map covering the field's central questions, 
 
 ### 2. Design the learning route
 
-The curriculum follows conceptual dependencies instead of mirroring a tool catalog. It normally begins with field orientation and foundations, then moves through mechanisms, method families, applications, evaluation, and independent synthesis.
+After a short field orientation, the agent proposes two to four routes with different outcomes and theory–paper–practice balances. It asks which areas deserve depth, which can be compressed, and what kind of practice the learner wants. The final curriculum follows conceptual dependencies while concentrating effort on the learner's actual priorities.
 
 ### 3. Teach for understanding
 

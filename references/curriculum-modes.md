@@ -4,6 +4,12 @@
 
 Use this reference to choose course scale, lesson sequence, and expected artifacts. Treat the numbers as defaults, not fixed requirements.
 
+## Route negotiation
+
+After initial field research, show the learner enough of the landscape to choose intelligently. Offer 2–4 routes that differ in substance, not merely lesson count: theory-first versus fast foundation and frontier work; broad survey versus a priority subfield in depth; paper-led versus practice-led; conceptual understanding versus operational independence.
+
+For each route, state what receives depth, what is compressed or omitted, what papers are read closely, what practice is included, and what the learner should be able to do at the end. Recommend a route, but invite the learner to mix elements. Do not finalize the syllabus until the learner has responded, unless the original request already determines these choices.
+
 ## Comprehensive mode
 
 Use when the learner wants durable command of a field.
@@ -64,6 +70,21 @@ Common hybrids include:
 
 State the chosen hybrid in plain language. Avoid exposing an elaborate mode taxonomy unless it helps the user decide.
 
+## Uneven depth allocation
+
+Allocate effort by relevance rather than symmetry. Tag each unit with one depth:
+
+- **Foundation:** only the concepts required for later work.
+- **Survey:** main problem, core idea, and representative achievements; no practice required.
+- **Working knowledge:** method logic plus a guided paper or exercise.
+- **Deep study:** mechanistic detail, close paper reading, hands-on work, failure analysis, and an independent artifact.
+
+A fast-frontier course commonly uses foundation depth for prerequisites, survey depth for historical methods, and deep study for the learner's target area.
+
+## Theory–paper–practice patterns
+
+Choose per unit: concept only; concept plus representative results; concept plus guided paper; concept plus paper plus practice; or practice plus theory repair for experienced learners. Practice may be a worked derivation, figure reconstruction, data analysis, code notebook, model inference, reproduction, design exercise, or experiment plan. Respect the user's boundary between teaching and execution.
+
 ## Route design template
 
 For each course, define:
@@ -75,6 +96,7 @@ For each course, define:
 5. **Paper schedule:** overview first, originals after prerequisites.
 6. **Interaction points:** where answers can alter pace or depth.
 7. **Completion evidence:** a teach-back, comparison, design, critique, or synthesis task.
+8. **Effort allocation:** theory depth, paper depth, practice form, and explicit omissions for every unit.
 
 ## Lesson sizing
 
