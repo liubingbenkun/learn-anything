@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research and Learn"
+  short_description: "Systematic research and adaptive teaching"
+  default_prompt: "Use $research-and-learn to research a field and teach it as a customized, interactive course."
