@@ -1,9 +1,9 @@
 ---
-name: research-and-learn
+name: learn-anything
 description: Research any field and turn the findings into a customized, source-grounded, interactive course. Use when the user wants to systematically learn a domain, get up to speed quickly, build a knowledge map, receive a tailored curriculum or lessons, enter a field through papers or a project, organize learning notes and sources, or understand a topic deeply rather than receive a one-off factual answer. Supports comprehensive, quick-start, project-led, paper-led, and refresher learning; fluent explanatory teaching; adaptive end-of-lesson questions; and persistent notes or local source libraries when requested.
 ---
 
-# Research and Learn
+# Learn Anything
 
 Turn an unfamiliar or partially familiar field into a coherent learning experience. Research first, design the conceptual route around the learner's goal, teach in natural language, and use interaction to adapt later lessons.
 

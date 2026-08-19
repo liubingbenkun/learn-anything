@@ -76,39 +76,39 @@ Clone the repository into your Codex skills directory:
 
 ```bash
 git clone https://github.com/liubingbenkun/learn-anything.git \
-  "${CODEX_HOME:-$HOME/.codex}/skills/research-and-learn"
+  "${CODEX_HOME:-$HOME/.codex}/skills/learn-anything"
 ```
 
 ### Windows PowerShell
 
 ```powershell
 git clone https://github.com/liubingbenkun/learn-anything.git `
-  "$env:USERPROFILE\.codex\skills\research-and-learn"
+  "$env:USERPROFILE\.codex\skills\learn-anything"
 ```
 
 Open a new Codex task after installation so the skill is discovered.
 
 ## Usage
 
-Invoke the skill explicitly with `$research-and-learn`:
+Invoke the skill explicitly with `$learn-anything`:
 
 ```text
-Use $research-and-learn to teach me computational neuroscience systematically.
+Use $learn-anything to teach me computational neuroscience systematically.
 I have a machine-learning background but limited neuroscience training.
 ```
 
 ```text
-Use $research-and-learn to help me get started with single-cell RNA-seq in one week.
+Use $learn-anything to help me get started with single-cell RNA-seq in one week.
 Focus on understanding method choices rather than environment setup.
 ```
 
 ```text
-Use $research-and-learn to introduce diffusion models through five key papers.
+Use $learn-anything to introduce diffusion models through five key papers.
 Fill prerequisite gaps before each paper.
 ```
 
 ```text
-Use $research-and-learn to refresh my statistics knowledge for causal inference.
+Use $learn-anything to refresh my statistics knowledge for causal inference.
 Diagnose what I already understand and skip fluent areas.
 ```
 

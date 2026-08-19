@@ -78,39 +78,39 @@ Agent 会建立一份精炼的证据地图，包括领域的核心问题、前�
 
 ```bash
 git clone https://github.com/liubingbenkun/learn-anything.git \
-  "${CODEX_HOME:-$HOME/.codex}/skills/research-and-learn"
+  "${CODEX_HOME:-$HOME/.codex}/skills/learn-anything"
 ```
 
 ### Windows PowerShell
 
 ```powershell
 git clone https://github.com/liubingbenkun/learn-anything.git `
-  "$env:USERPROFILE\.codex\skills\research-and-learn"
+  "$env:USERPROFILE\.codex\skills\learn-anything"
 ```
 
 安装后新建一个 Codex 任务，使 Codex 重新发现该 skill。
 
 ## 使用示例
 
-通过 `$research-and-learn` 显式调用：
+通过 `$learn-anything` 显式调用：
 
 ```text
-使用 $research-and-learn，带我全面系统学习计算神经科学。
+使用 $learn-anything，带我全面系统学习计算神经科学。
 我有机器学习基础，但神经科学基础较弱。
 ```
 
 ```text
-使用 $research-and-learn，让我在一周内快速上手单细胞转录组分析。
+使用 $learn-anything，让我在一周内快速上手单细胞转录组分析。
 重点理解方法选择，不需要进行环境部署。
 ```
 
 ```text
-使用 $research-and-learn，通过五篇关键论文带我进入扩散模型领域。
+使用 $learn-anything，通过五篇关键论文带我进入扩散模型领域。
 在每篇论文之前补充所需的前置知识。
 ```
 
 ```text
-使用 $research-and-learn，帮我复习因果推断需要的统计学。
+使用 $learn-anything，帮我复习因果推断需要的统计学。
 先诊断我的掌握程度，已经熟悉的部分可以快速跳过。
 ```
 
